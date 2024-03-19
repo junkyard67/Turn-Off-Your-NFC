@@ -1,0 +1,18 @@
+Hello Dear Friend!
+
+If you find this file in your device then this means that you kept your NFC enabled while you were not using it!
+
+What does this mean?
+This means your device could have been hacked! Someone put this file in your device as a proof that you were vulnerable to a potential real attack.
+This is file is not malicious, it is just a text file to inform you about one of the most common vulnerability: Human Error.
+
+By keeping your device with NFC enabled, anyone who is able to create a NFC Tag with a web link could have made your device access a malicious link.
+Malicious links can contain malware, resulting in your device being Remotely Controlled, your Information could have been stolen or you might even been a victim of a Ransomware.
+By accessing such links, your device might just download the files without any questions, likely what happen with this .txt file too!
+
+Please keep your NFC disabled while not in use. This will keep you safe from potential malicious attackers.
+
+For mor information about the orgin of this file and the concept behind it you can visit https://github.com/junkyard67/Turn-Off-Your-NFC
+This is Open Source and anyone can have access to it and can use it freely.
+
+Please take care and be responsible!

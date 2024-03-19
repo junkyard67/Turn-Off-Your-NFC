@@ -7,7 +7,7 @@ If the NFC is open and readily available, then an attacker can just go by you in
 This project has in mind the Flipper Zero, but it can easily be emulated by any Phone or NFC emulation device.
 
 This project will use the Suspicious_Malicious.txt file instead of an actual malicious file. This file will contain text regarding the vulnerability and a notice to the target that the NFC functionality should be turned off when not in use.
-1) Create a NFC Tag data which contain a link to the Suspicious_Malicious.txt file.
+1) Create a NFC Tag data which contain a link to download the Suspicious_Malicious.txt file.
 2) Add a NFC Tag to the Flipper Zero so it can be emulated.
 3) Write your Flipper Zero NFC Tag with the link mentioned in step 1.
 4) Use your Flipper Zero to emulate the NFC Tag near user phone when it have the NFC enabled.

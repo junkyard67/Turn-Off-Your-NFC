@@ -21,7 +21,7 @@ To mitigate this vulnerability you can do the follwing, listed in the order of i
 1) Turn off your NFC while it's not used. This is the best and easiest method.
 2) Don't have a default application to open links, always manually choose an application for such cases.
 3) Don't have a default save option for downloading files, always manually choose where to download a file from the internet.
-4) Keep your Device in a place where it would be hard for an Attacker to get close enought to launch this attack.
+4) Keep your Device in a place where it would be hard for an Attacker to get close enough to launch this attack.
 
 I recommend you to use all these mitigation steps at the same time.
 
